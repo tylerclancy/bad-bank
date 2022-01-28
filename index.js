@@ -18,3 +18,5 @@ function Spa() {
     </HashRouter>
   );
 }
+
+ReactDOM.render(<Spa />, document.getElementById('root'));
