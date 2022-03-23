@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/tylerclancy/bad-bank.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tyler",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tylerclancy/bad-bank/issues"
   },
-  "homepage": "https://github.com/tylerclancy/bad-bank#readme"
+  "homepage": "https://github.com/tylerclancy/bad-bank#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
 }
