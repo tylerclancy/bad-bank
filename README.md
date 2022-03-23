@@ -13,14 +13,10 @@ This application requires the following packages:
 # Installation
 
 $ git clone https://github.com/tylerclancy/bad-bank.git
-<<<<<<< HEAD
 
 $ cd bad-bank
 
-=======
 $ cd bad-bank
->>>>>>> 543b94ec368612104d9da3a9f5cba0cfb2eaa87d
-$ node index.js
 
 # Technology
 * [React](https://reactjs.org/)
