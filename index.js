@@ -32,6 +32,7 @@ app.get('/account/all', (req, res) => {
   });
 });
 
+// Listener
 app.listen(4000, () => {
   console.log('Running on port 4000!');
 });
