@@ -16,7 +16,7 @@ $ git clone https://github.com/tylerclancy/bad-bank.git
 
 $ cd bad-bank
 
-$ cd bad-bank
+$ node index.js
 
 # Technology
 * [React](https://reactjs.org/)
