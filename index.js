@@ -31,3 +31,7 @@ app.get('/account/all', (req, res) => {
     password: 'secret'
   });
 });
+
+app.listen(4000, () => {
+  console.log('Running on port 4000!');
+});
