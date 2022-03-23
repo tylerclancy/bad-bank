@@ -22,3 +22,12 @@ app.get('/account/login/:email/:password', (req, res) => {
     password: req.params.password
   });
 });
+
+// All accounts
+app.get('/account/all', (req, res) => {
+  res.send({
+    name: 'tyler',
+    email: 'tyler@gmail.com',
+    password: 'secret'
+  });
+});
