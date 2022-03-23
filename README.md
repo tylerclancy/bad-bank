@@ -1,6 +1,8 @@
 # banking-application
 Full-stack banking application
 
+![Image of balance page](https://github.com/tylerclancy/bad-bank/blob/main/public/bank3.PNG?raw=true)
+
 # Motivation
 I wanted to build an application that makes use of some sort of database. A banking application fits this criteria -having to handle account creation, balance, and authentication.
 
