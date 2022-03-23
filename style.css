@@ -1,0 +1,17 @@
+.section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  min-width: 500px;
+}
+
+.balance {
+  transform: translateY(-10%);
+}

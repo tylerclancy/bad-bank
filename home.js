@@ -1,11 +1,13 @@
 function Home() {
   return (
+    <div className="section">
     <Card
       txtcolor="black"
-      header="BadBank Landing Page"
-      title="Welcome to the bank"
-      text="You can use this bank"
-      body={<img src="bank.png" className="img-fluid" alt="Responsive image" />}
+      width="50"
+      title="Welcome to The Bank"
+      text="For all your banking needs!"
+      body={<img src="stocks.png" className="img-fluid" alt="Responsive image" />}
     />
+    </div>
   );
 }

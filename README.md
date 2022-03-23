@@ -1,2 +1,2 @@
-# bad-bank
-A sample bank application with no security. 
+# front-end-bank
+Front end bank assignment

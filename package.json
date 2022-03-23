@@ -1,0 +1,19 @@
+{
+  "name": "front-end-bank",
+  "version": "1.0.0",
+  "description": "Front end bank assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerclancy/bad-bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerclancy/bad-bank/issues"
+  },
+  "homepage": "https://github.com/tylerclancy/bad-bank#readme"
+}
